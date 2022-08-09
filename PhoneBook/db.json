@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Ajay",
+      "lastName": "Gunjal",
+      "phoneNumber": "9898789878"
+    },
+    {
+      "id": 3,
+      "firstName": "Vijay",
+      "lastName": "Kumar",
+      "phoneNumber": "9876567890"
+    },
+    {
+      "id": 4,
+      "firstName": "Raju",
+      "lastName": "Shrivastav",
+      "phoneNumber": "7656478392"
+    },
+    {
+      "id": 5,
+      "firstName": "Datta",
+      "lastName": "Tyagi",
+      "phoneNumber": "8908764252"
+    }
+  ]
+}
